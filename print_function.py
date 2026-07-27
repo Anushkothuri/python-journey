@@ -8,4 +8,6 @@ print("""Your learning path:
 print("Python is \"user friendly\"")
 print("Python is \'easy\' to understand")
 print('Python is rich for "Data-Jobs"') #still double quotes
-print("Python is used in 'AI'")
+print("Python is used in 'AI'") #still single quotes
+# 3. \\ used to insert backslash.
+print("C: \\Downloads\\Python\\print_function.py")
