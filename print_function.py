@@ -1,4 +1,4 @@
-#ESCAPE SEQUENCES
+#PRINT FUNCTION AND ESCAPE SEQUENCES
 # 1. \n and \t
 print("""Your learning path:
 \n\t-Python Basics
