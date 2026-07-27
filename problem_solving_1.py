@@ -14,3 +14,10 @@ language="python"
 print(city)
 print(country)
 print(language)
+print("******** PRINT FUNCTION ENDS ********\n")
+
+#PROBLEM 4
+website_name="anushcodes"
+print("info@",website_name,".com")
+print("support@",website_name,".com")
+print("www.",website_name,".com")
