@@ -21,3 +21,4 @@ website_name="anushcodes"
 print("info@",website_name,".com")
 print("support@",website_name,".com")
 print("www.",website_name,".com")
+print("******** VARIABLES ENDS ********\n")
