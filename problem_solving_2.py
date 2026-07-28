@@ -1,0 +1,5 @@
+print("----- MY PROFILE -----\n")
+input("Name : ")
+input("Age : ")
+input("City : ")
+print("----------------------\n")
