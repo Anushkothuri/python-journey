@@ -1,11 +1,14 @@
 #PROBLEM 1
 print("----- MY PROFILE -----")
 print()
-input("Name : ")
-input("Age : ")
-input("City : ")
+name = input("Name : ")
+age = input("Age : ")
+city = input("City : ")
 print()
 print("----------------------")
+print("Name :", name)
+print("Age  :", age)
+print("City :", city)
 print()
 #PROBLEM 2
 Fav_Food=input("Fav Food : ")
