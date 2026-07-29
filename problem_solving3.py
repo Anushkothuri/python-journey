@@ -27,4 +27,4 @@ print(type(is_editor))
 #PROBLEM 3
 x = "25"
 y = "10"
-print(x + y) #Due to doubt quotes x and y are str, so + means concatenation!!
+print(x + y) #Due to double quotes x and y are str, so + means concatenation!!
