@@ -23,3 +23,8 @@ print("Value: ",salary)
 print(type(salary))
 print("Value: ",is_editor)
 print(type(is_editor))
+
+#PROBLEM 3
+x = "25"
+y = "10"
+print(x + y) #Due to doubt quotes x and y are str, so + means concatenation!!
