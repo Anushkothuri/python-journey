@@ -21,4 +21,8 @@ Python is easy to learn.
 I love python.
 Python is powerful!
 """
-print(text.count("Python"))
+print(text.count("Python")) #count is case-senstive
+print()
+#replace()
+price="1234,56"
+print(price.replace(",", "."))
