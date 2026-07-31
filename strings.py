@@ -32,3 +32,9 @@ fir_name="Anush"
 sec_name="Kothuri"
 full_name=fir_name+" "+sec_name
 print(full_name)
+print()
+#f-string
+name="Anush"
+age=20
+Is_Student=True
+print(f"my name is {name}, I am {age} year old and student status is {Is_Student}.")
