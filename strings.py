@@ -26,3 +26,9 @@ print()
 #replace()
 price="1234,56"
 print(price.replace(",", "."))
+print()
+#plus(+)
+fir_name="Anush"
+sec_name="Kothuri"
+full_name=fir_name+" "+sec_name
+print(full_name)
