@@ -65,3 +65,14 @@ print(len(text))
 print(len(text.strip()))
 print(len(text)-len(text.strip()))
 print(len(text)==len(text.strip()))
+print()
+#startswith and endswith
+phone="+91-1234567890"
+print(phone.startswith("+91"))
+email="kothurianush16@outlook.com"
+print(email.endswith("@gmail.com"))
+print("@" in email)
+#find()
+phone="+91-1234567890"
+print(phone.find(str(3)))
+print(phone[phone.find("-")+1:])
