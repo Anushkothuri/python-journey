@@ -60,3 +60,8 @@ text=" Anush ".strip()
 print(text)
 text="##Anush###".strip("#")
 print(text)
+text=" Engineering "
+print(len(text))
+print(len(text.strip()))
+print(len(text)-len(text.strip()))
+print(len(text)==len(text.strip()))
