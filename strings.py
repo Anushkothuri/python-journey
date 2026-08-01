@@ -44,3 +44,10 @@ print(stamp.split("-"))
 # repetator *
 print("Ha"*3)
 print("-"*7) 
+#indexing and slicing
+text = "Python"
+print(text[0])     #positive indexing
+print(text[-6])    #negative indexing
+print(text[0:4])   #positive slicing
+print(text[-6:-2]) #negative slicing
+print(text[0:4:2]) #step slicing
