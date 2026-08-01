@@ -76,3 +76,9 @@ print("@" in email)
 phone="+91-1234567890"
 print(phone.find(str(3)))
 print(phone[phone.find("-")+1:])
+print()
+#isalpha() and isnumeric()
+text="USA"
+print(text.isalpha())
+num="123"
+print(num.isnumeric())
