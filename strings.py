@@ -38,3 +38,9 @@ name="Anush"
 age=20
 Is_Student=True
 print(f"my name is {name}, I am {age} year old and student status is {Is_Student}.")
+#split()
+stamp="2026-09-20 14:30"
+print(stamp.split("-"))
+# repetator *
+print("Ha"*3)
+print("-"*7) 
