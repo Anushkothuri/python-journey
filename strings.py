@@ -51,3 +51,12 @@ print(text[-6])    #negative indexing
 print(text[0:4])   #positive slicing
 print(text[-6:-2]) #negative slicing
 print(text[0:4:2]) #step slicing
+#strip()
+text=" Anush".lstrip()
+print(text)
+text="Anush ".rstrip()
+print(text)
+text=" Anush ".strip()
+print(text)
+text="##Anush###".strip("#")
+print(text)
