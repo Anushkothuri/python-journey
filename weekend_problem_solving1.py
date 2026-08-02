@@ -23,3 +23,7 @@ print(type(name))
 print(type(age))
 print(type(height))
 print()
+#Problem 4
+age=int(input("age: "))
+age=age+5
+print("After 5 years your age will be ",age)
